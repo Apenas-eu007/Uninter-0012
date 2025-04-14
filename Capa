@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capa do Trabalho</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        #capa {
+            text-align: center;
+            padding: 20px;
+            border: 2px solid #000;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        #capa h1, #capa h2, #capa h3, #capa p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="capa">
+        <h1>CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER</h1>
+        <h2>ESCOLA SUPERIOR POLITÉCNICA</h2>
+        <h3>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</h3>
+        <h3>FUNDAMENTOS DE DESENVOLVIMENTO DE SOFTWARE</h3>
+        <h3>ATIVIDADE PRÁTICA</h3>
+        <h3>CLEITON KAUAN ANDRADES SANTOS – RU: 5338434</h3>
+        <h3>SANTO AMARO DAS BROTAS – SERGIPE</h3>
+        <h3>2025</h3>
+        <p>Link 1: <a href="https://github.com/cleitonkauan/pagina-pessoal" target="_blank">link do Site no github</a></p>
+        <p>Link 2: <a href="https://github.com/cleitonkauan/pagina-pessoal" target="_blank">link do repositório no github</a></p>
+    </div>
+</body>
+</html>

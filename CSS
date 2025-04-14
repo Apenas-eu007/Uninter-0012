@@ -1,0 +1,53 @@
+body {
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: #4b0082;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+#hobbies-img {
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
+}
+
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #4b0082;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #4b0082;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8a2be2;
+}
